@@ -25,6 +25,9 @@ function App() {
       <header className="App-header">
         {testStr}
       </header>
+      <body>
+        testtest
+      </body>
     </div>
   );
 }
